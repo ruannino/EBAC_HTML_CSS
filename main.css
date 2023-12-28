@@ -100,6 +100,22 @@ section h2 {
     background-color: #f8f59f;
 }
 
-$economy .articles article a {
-    background-attachment: #ff9f1a;
+#economy .articles article a {
+    background-color: coral;
+}
+
+#entertainment {
+    background-color: rgba(0, 255, 255, 0.1);
+}
+
+#entertainment .articles article a {
+    background-color: blue;
+}
+
+#technology {
+    background-color: rgba(255, 4, 54, 0.1);
+}
+
+#technology .articles article a {
+    background-color: red;
 }
