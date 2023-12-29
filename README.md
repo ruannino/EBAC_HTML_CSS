@@ -9,7 +9,7 @@ Repositório destinado a compartilhar o desenvolvimento inicial de **HTML** e **
 **VS_CODE**, usando o percurso de ensino da plataforma.
 ___________________________________________________________________________
 <p align="center">
-![Print_Visual image](Medias/Captura_Visual.jpg)
+![Print_Visual image](Midias/Captura_Visual.jpg)
 </p>
 ___________________________________________________________________________
 # Autor
