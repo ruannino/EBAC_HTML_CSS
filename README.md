@@ -8,7 +8,10 @@ ___________________________________________________________________________
 Repositório destinado a compartilhar o desenvolvimento inicial de **HTML** e **CSS** em meus estudos na plataforma **EBAC**, utilizando a IDE 
 **VS_CODE**, usando o percurso de ensino da plataforma.
 ___________________________________________________________________________
-![Print_Captura_Visual_Site_Image](Medias/Captura%20do%20site.png)
+<h2 aling="center"> Print do Site  </h2>
+<p align="center">
+![Print_Captura_Visual_Site_Image](Medias/Captura_Visual.png)
+</p>
 ___________________________________________________________________________
 # Autor
 
