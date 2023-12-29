@@ -10,7 +10,7 @@ Repositório destinado a compartilhar o desenvolvimento inicial de **HTML** e **
 ___________________________________________________________________________
 <h2> Print Visual </h2>
 <p align="center">
-![Captura_Visual_Site_Image](Medias/Captura_Visual.jpg)
+![Python-Learning-CursoEmVideo-IntelliJ_Image](Users/Python-Learning-CursoEmVideo-IntelliJ_Image.jpg)
 </p>
 ___________________________________________________________________________
 # Autor
