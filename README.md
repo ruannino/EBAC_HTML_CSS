@@ -8,8 +8,8 @@ ___________________________________________________________________________
 Repositório destinado a compartilhar o desenvolvimento inicial de **HTML** e **CSS** em meus estudos na plataforma **EBAC**, utilizando a IDE 
 **VS_CODE**, usando o percurso de ensino da plataforma.
 ___________________________________________________________________________
-<p align="center">
-![Print_Visual image](Midias/Captura_Visual.jpg)
+<p aling="center">
+<img src="https://github.com/ruannino/EBAC_HTML_CSS/blob/exerc%C3%ADcio_css/Midias/Captura_Visual.jpg?raw=true">
 </p>
 ___________________________________________________________________________
 # Autor
