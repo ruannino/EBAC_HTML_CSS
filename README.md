@@ -8,9 +8,8 @@ ___________________________________________________________________________
 Repositório destinado a compartilhar o desenvolvimento inicial de **HTML** e **CSS** em meus estudos na plataforma **EBAC**, utilizando a IDE 
 **VS_CODE**, usando o percurso de ensino da plataforma.
 ___________________________________________________________________________
-<h2> Print Visual </h2>
 <p align="center">
-![Python-Learning-CursoEmVideo-IntelliJ_Image](Users/Python-Learning-CursoEmVideo-IntelliJ_Image.jpg)
+![Print_Visual image](Medias/Captura_Visual.jpg)
 </p>
 ___________________________________________________________________________
 # Autor
